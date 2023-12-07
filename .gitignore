@@ -1,0 +1,11 @@
+*node_modules
+test
+*.jpg
+0x00-ES6_basic/node_modules
+0x00-ES6_basic/test
+0x00-html_advanced
+0x01-developer_tools
+0x01-ES6_promise
+0x02-ES6_classes
+0x03-ES6_data_manipulation
+0x04-Typescript
